@@ -1,6 +1,6 @@
 # Data Analytics Project:
 
-# Capstone Project: Term Deposit Marketing Strategy Analysis
+## Capstone Project: Term Deposit Marketing Strategy Analysis
 Python was used to explore and visualize customer data from the bank dataset to determine the relationship between variables and term deposits. 
 
 **Summary:**
